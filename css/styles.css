@@ -132,6 +132,13 @@ a:visited {
   display: block;
   height: 400px;
 }
+#ayedh-sh-card {
+  background-image: url("../assets/img/ayedh.jpg");
+}
+
+#ayedh-sh-cover {
+  background-image: url("../assets/img/ayedh-cover.jpg");
+}
 
 #joe-burgess-card {
   background-image: url("../assets/img/joe-burgess.jpeg");
